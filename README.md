@@ -1,4 +1,6 @@
-# ❕ Note that this has been forked. What lies below is the original README content
+# Note that this has been forked. What lies below is the original README content
+
+## I currently don't have time to maintain this for versions of Angular outside of v16 but there is some recent forks that do the job for Angular v17.
 
 # International Telephone Input for Angular (NgxIntlTelInput)
 
