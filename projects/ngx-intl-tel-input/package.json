@@ -1,6 +1,6 @@
 {
   "name": "@khazii/ngx-intl-tel-input",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "peerDependencies": {
     "@angular/common": "^16.2.0",
     "@angular/core": "^16.2.0",
