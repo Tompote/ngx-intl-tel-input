@@ -30,7 +30,7 @@
     "bootstrap": "4.5.2",
     "core-js": "3.6.5",
     "google-libphonenumber": "3.2.3",
-    "intl-tel-input": "17.0.3",
+    "intl-tel-input": "17.0.13",
     "jquery": "3.5.0",
     "ngx-bootstrap": "11.0.2",
     "popper.js": "1.16.1",
