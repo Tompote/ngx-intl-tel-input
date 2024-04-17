@@ -48,7 +48,7 @@ to **angular.json** styles array:
 ```json
 
 "styles": [
-  "./node_modules/@khazii/intl-tel-input/build/css/intlTelInput.css",
+  "./node_modules/@tompote/intl-tel-input/build/css/intlTelInput.css",
   "src/styles.css"
 ],
 
@@ -56,7 +56,7 @@ to **angular.json** styles array:
 
 ### Install This Library
 
-`$ npm install @khaziingx-intl-tel-input --save`
+`$ npm install @tompote/ngx-intl-tel-input --save`
 
 ## Usage
 
@@ -123,7 +123,7 @@ Following formats are supported
 ## Library Contributions
 
 - Fork repo.
-- Update `./projects/@khazii/ngx-intl-tel-input`
+- Update `./projects/@tompote/ngx-intl-tel-input`
 - Build / test library.
 - Update `./src/app` with new functionality.
 - Update README.md
