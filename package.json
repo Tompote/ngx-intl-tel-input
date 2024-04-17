@@ -1,5 +1,5 @@
 {
-  "name": "@khazii/ngx-intl-tel-input",
+  "name": "@tompote/ngx-intl-tel-input",
   "version": "0.0.2",
   "scripts": {
     "ng": "ng",
